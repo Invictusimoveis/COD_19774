@@ -1,0 +1,24 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_C0946573_CDDE_7C31_41E0_798CB5690179.label = Entrada
+panorama_C6220129_CDDE_15D1_41D4_AE12FEB6EFEC.label = Entrada_rampa
+panorama_CEAAB202_DD8D_9F77_41E1_3A06B4361C20.label = Escada_Salão principal_mezanino2
+panorama_C62276E1_CDDE_3C51_41DB_F6A98EF9FBA7.label = Escada_subsolo_Salão principal
+panorama_CE22ECED_DD8D_848D_41EB_921232486B09.label = Mezanino
+panorama_C6230163_CDDE_1451_41CC_9D356608AFAA.label = Salão Principal_Frente
+panorama_C623BE47_CDDE_0C51_41E6_B4EFF09BF56D.label = Salão Principal_Fundos
+panorama_C623256C_CDDE_1C57_41E8_BCBBD9318FDE.label = Salão Principal_Sala
+panorama_C6230973_CDDE_F431_4199_3BE94D8ED5DD.label = Salão Principal_meio
+panorama_C6228259_CDDE_3471_41E8_982D7C468018.label = Subsolo
+panorama_C6221E09_CDDE_0FD1_41B4_07EE7A9CB6BE.label = Subsolo_
+panorama_C62299FB_CDDE_1431_41E3_331EAB59DC5E.label = Subsolo_área aberta
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Galpão av dom pedro II N1910_19774 
